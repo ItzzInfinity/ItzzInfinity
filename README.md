@@ -27,9 +27,11 @@ ___
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-009688?style=flat-square&logo=electronics&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### 😎 Intermediate
 ![Embedded Systems](https://img.shields.io/badge/-Embedded_Systems-007ACC?style=flat-square&logo=embedded&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![FPGA](https://img.shields.io/badge/-FPGA-009688?style=flat-square&logo=fpga&logoColor=white)
 ![UART](https://img.shields.io/badge/-UART-FFC107?style=flat-square&logo=uart&logoColor=black)
