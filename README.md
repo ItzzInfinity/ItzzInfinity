@@ -7,8 +7,8 @@ I am a passionate developer with a strong focus on embedded systems and FPGA des
 
 ___
 
-![ItzzInfinity's Stats](https://github-readme-stats.vercel.app/api?username=ItzzInfinity&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![ItzzInfinity's Day Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItzzInfinity&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![ItzzInfinity's Stats](https://github-readme-stats.vercel.app/api?username=ItzzInfinity&theme=dracula&show_icons=true&hide_border=true&count_private=true)<br>
+![ItzzInfinity's Day Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItzzInfinity&theme=dracula&show_icons=true&hide_border=true&layout=compact)<br>
 ![ItzzInfinity's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzInfinity&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 <!--![ItzzInfinity's Tropihes](https://github-profile-trophy.vercel.app/?username=ItzzInfinity&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15)-->
 ___
