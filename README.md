@@ -3,12 +3,14 @@
 ---
 I am a passionate developer with a strong focus on embedded systems and FPGA design. I thrive in creating efficient hardware-software integrations, exploring digital image processing, and optimizing microcontroller-based projects. Whether working on wireless communication or crafting precise digital circuits, I am driven by a commitment to innovation and technical excellence.
 
-When I'm not coding, I'm either breaking or making circuits.
+```When I'm not coding, I'm either breaking or making circuits.```
 
 ___
 
-![ItzzInfinity's Stats](https://github-readme-stats.vercel.app/api?username=ItzzInfinity&theme=dracula&show_icons=true&hide_border=true&count_private=true)<br/>
+![ItzzInfinity's Stats](https://github-readme-stats.vercel.app/api?username=ItzzInfinity&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![ItzzInfinity's Day Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItzzInfinity&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 ![ItzzInfinity's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzInfinity&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+<!--![ItzzInfinity's Tropihes](https://github-profile-trophy.vercel.app/?username=ItzzInfinity&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15)-->
 ___
 
 ### Technologies I Can Work With
