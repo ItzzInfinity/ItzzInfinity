@@ -6,13 +6,23 @@ I am a passionate developer with a strong focus on embedded systems and FPGA des
 ```When I'm not coding, I'm either breaking or making circuits.```
 
 ___
+### Github Statistics
 
-![ItzzInfinity's Stats](https://github-readme-stats.vercel.app/api?username=ItzzInfinity&theme=dracula&show_icons=true&hide_border=true&count_private=true)<br>
-![ItzzInfinity's Day Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItzzInfinity&theme=dracula&show_icons=true&hide_border=true&layout=compact)<br>
-![ItzzInfinity's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzInfinity&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-<!--![ItzzInfinity's Tropihes](https://github-profile-trophy.vercel.app/?username=ItzzInfinity&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15)-->
+<div align="center">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItzzInfinity&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzInfinity&theme=dracula&show_icons=true&layout=compact"/>
+</div>
+
 ___
 
+### Streak
+
+<div align="center">
+   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItzzInfinity&theme=dracula&show_icons=true&layout=compact"/><br>
+</div>
+<!--![ItzzInfinity's Tropihes](https://github-profile-trophy.vercel.app/?username=ItzzInfinity&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15)-->
+
+___
 ### Technologies I Can Work With
 
 #### 💪 Strong
