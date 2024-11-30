@@ -18,7 +18,7 @@ ___
 ### Streak
 
 <div align="center">
-   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Itzzinfinity&theme=dracula&show_icons=true&layout=compact"/><br>
+   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItzzInfinity&theme=dracula&show_icons=true&layout=compact"/><br>
 </div>
 <!--![ItzzInfinity's Tropihes](https://github-profile-trophy.vercel.app/?username=ItzzInfinity&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15)-->
 
