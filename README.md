@@ -35,20 +35,20 @@ ___
 ![Vivado](https://img.shields.io/badge/-Vivado-007ACC?style=flat&logo=xilinx&logoColor=white)
 ![Quartus Prime](https://img.shields.io/badge/-Quartus_Prime-0071C5?style=flat&logo=intel&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/-ModelSim-3DDC84?style=flat&logo=modelsim&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![I2C](https://img.shields.io/badge/-I2C-4CAF50?style=flat&logo=i2c&logoColor=white)
 ![SPI](https://img.shields.io/badge/-SPI-FF5722?style=flat&logo=spi&logoColor=white)
 ![Wire](https://img.shields.io/badge/-Wire-FFCC00?style=flat&logo=arduino&logoColor=white)
 ![Serial Communication](https://img.shields.io/badge/-Serial_Communication-FF9900?style=flat&logo=serial&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![FPGA](https://img.shields.io/badge/-FPGA-009688?style=flat&logo=fpga&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 #### 😎 Intermediate
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GNOME](https://img.shields.io/badge/GNOME-4A86CF.svg?style=for-the-badge&logo=GNOME&logoColor=white)
+![GNOME](https://img.shields.io/badge/GNOME-4A86CF.svg?style=flat&logo=GNOME&logoColor=white)
 ![iverilog](https://img.shields.io/badge/-iverilog-green.svg) 
 ![Embedded Systems](https://img.shields.io/badge/-Embedded_Systems-007ACC?style=flat&logo=embedded&logoColor=white)
 ![UART](https://img.shields.io/badge/-UART-FFC107?style=flat&logo=uart&logoColor=black)
@@ -66,7 +66,7 @@ ___
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
 ![Simulation](https://img.shields.io/badge/-Simulation-1E90FF?style=flat&logo=simulation&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
 
 ___
 [![](https://visitcount.itsvg.in/api?id=ItzzInfinity&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
