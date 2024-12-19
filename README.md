@@ -11,8 +11,10 @@ ___
 <div align="center">
   <img height="200em" width = "550em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItzzInfinity&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200em" width = "400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzInfinity&theme=dracula&show_icons=true&layout=compact"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ItzzInfinity&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15"/>
-</div>
+  </div
+<!--   <div align="center">
+  <img height="200em" width = "1000em" src="https://github-profile-trophy.vercel.app/?username=ItzzInfinity&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15"/>
+</div> -->
 
 <!--![ItzzInfinity's Tropihes](https://github-profile-trophy.vercel.app/?username=ItzzInfinity&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15) -->
 ___
