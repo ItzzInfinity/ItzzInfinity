@@ -13,8 +13,8 @@ ___
   <img height="200em" width = "400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzInfinity&theme=dracula&show_icons=true&layout=compact"/>
   </div
 <!--   <div align="center">
-  <img height="200em" width = "1000em" src="https://github-profile-trophy.vercel.app/?username=ItzzInfinity&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15"/>
-</div> -->
+<!--   <img height="200em" width = "1000em" src="https://github-profile-trophy.vercel.app/?username=ItzzInfinity&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15"/> -->
+<!-- </div> --> 
 
 <!--![ItzzInfinity's Tropihes](https://github-profile-trophy.vercel.app/?username=ItzzInfinity&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15) -->
 ___
