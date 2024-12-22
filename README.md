@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Anjan
 
 ---
-I am a passionate developer with a strong focus on embedded systems and FPGA design. I thrive in creating efficient hardware-software integrations, exploring digital image processing, and optimizing microcontroller-based projects. Whether working on wireless communication or crafting precise digital circuits, I am driven by a commitment to innovation and technical excellence.
+I am a passionate developer with a strong focus on *Embedded Systems* and *FPGA design*. I thrive in creating efficient hardware-software integrations, exploring digital image processing, and optimizing microcontroller-based projects. Whether working on wireless communication or crafting precise digital circuits, I am driven by a commitment to innovation and technical excellence.
 
 `When I'm not coding, I'm either breaking or making circuits.`
 
