@@ -23,6 +23,8 @@ ___
 
 <div align="center">
    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Itzzinfinity&theme=dracula&show_icons=true&layout=compact"/><br>
+<!--    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Itzzinfinity&theme=tokyonight&hide_border=false"/><br> -->
+  
 </div>
 
 
@@ -44,7 +46,7 @@ ___
 ![SPI](https://img.shields.io/badge/-SPI-FF5722?style=plastic&logo=spi&logoColor=white)
 ![Wire](https://img.shields.io/badge/-Wire-FFCC00?style=plastic&logo=arduino&logoColor=white)
 ![Serial Communication](https://img.shields.io/badge/-Serial_Communication-FF9900?style=plastic&logo=serial&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![FPGA](https://img.shields.io/badge/-FPGA-009688?style=plastic&logo=fpga&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white)
@@ -55,6 +57,8 @@ ___
 ![OpenPyXL](https://img.shields.io/badge/-OpenPyXL-1D6F42?style=plastic&logo=microsoft-excel&logoColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/-PyAutoGUI-555555?style=plastic&logo=python&logoColor=white)
 ![PyPDF2](https://img.shields.io/badge/-PyPDF2-BD081C?style=plastic&logo=adobe&logoColor=white)
+![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=plastic&logo=espressif&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) 
 
 
 #### 😎 Intermediate
@@ -72,6 +76,8 @@ ___
 ![SevSeg](https://img.shields.io/badge/-SevSeg-FF5733?style=plastic&logo=arduino&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=plastic&logo=scipy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)   
+<!--![Virtuoso](https://img.shields.io/badge/Virtuoso-%23EE0000.svg?style=plastic&logo=cadence&logoColor=white)-->
 
 #### 🛠️ Basic
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -81,6 +87,8 @@ ___
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=plastic&logo=matlab&logoColor=white)
 ![Simulation](https://img.shields.io/badge/-Simulation-1E90FF?style=plastic&logo=simulation&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-%23E7352C.svg?style=plastic&logo=espressif&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) 
 
 ___
 [![](https://visitcount.itsvg.in/api?id=ItzzInfinity&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
