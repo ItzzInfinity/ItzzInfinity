@@ -6,7 +6,7 @@ I am a passionate developer with a strong focus on *Embedded Systems* and *FPGA 
 `When I'm not coding, I'm either breaking or making circuits.`
 
 ___
-### Github Statistics
+### 📊 Github Statistics
 
 <div align="center">
   <img height="200em" width = "550em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItzzInfinity&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +19,7 @@ ___
 <!--![ItzzInfinity's Tropihes](https://github-profile-trophy.vercel.app/?username=ItzzInfinity&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15) -->
 ___
 
-### Streak
+### 📈 Streak
 
 <div align="center">
    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Itzzinfinity&theme=dracula&show_icons=true&layout=compact"/><br>
@@ -89,6 +89,13 @@ ___
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-%23E7352C.svg?style=plastic&logo=espressif&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) 
+
+<h2>🐍 Contribution Snake</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ___
 [![](https://visitcount.itsvg.in/api?id=ItzzInfinity&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
