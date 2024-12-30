@@ -22,7 +22,7 @@ ___
 ### 📈 Streak
 
 <div align="center">
-   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Itzzinfinity&theme=dracula&show_icons=true&layout=compact"/><br>
+   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItzzInfinity&theme=dracula&show_icons=true&layout=compact"/><br>
 <!--    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Itzzinfinity&theme=tokyonight&hide_border=false"/><br> -->
   
 </div>
