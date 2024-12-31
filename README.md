@@ -98,5 +98,6 @@ ___
 </picture>
 
 ___
-[![](https://visitcount.itsvg.in/api?id=ItzzInfinity&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=ItzzInfinity&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)-->
 
+![](https://komarev.com/ghpvc/?username=ItzzInfinity&label=Profile%20views&color=0e75b6&style=plastic)
